@@ -1,5 +1,5 @@
 # lecture3_examples
-Examples of using Eigen, custom message files, amd ros2 arguments.
+Examples of using Eigen, custom message files, and ros2 arguments.
 
 Rotates a vector by a specified angle
 
